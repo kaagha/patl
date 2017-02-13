@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/128/trunk/uxn/patl/impl
+END
+patricia_dot_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/128/trunk/uxn/patl/impl/patricia_dot_base.hpp
+END
+prefix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/115/trunk/uxn/patl/impl/prefix.hpp
+END
+core_algorithm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/128/trunk/uxn/patl/impl/core_algorithm.hpp
+END
+primes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/128/trunk/uxn/patl/impl/primes.hpp
+END
+trie_generic.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/128/trunk/uxn/patl/impl/trie_generic.hpp
+END
+suffix_generic.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/128/trunk/uxn/patl/impl/suffix_generic.hpp
+END
+assoc_generic.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/128/trunk/uxn/patl/impl/assoc_generic.hpp
+END
+core_prefix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/115/trunk/uxn/patl/impl/core_prefix.hpp
+END
+trivial.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/128/trunk/uxn/patl/impl/trivial.hpp
+END
+vertex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/128/trunk/uxn/patl/impl/vertex.hpp
+END
+partimator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/128/trunk/uxn/patl/impl/partimator.hpp
+END
+node.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/115/trunk/uxn/patl/impl/node.hpp
+END
+generator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/128/trunk/uxn/patl/impl/generator.hpp
+END
+algorithm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/128/trunk/uxn/patl/impl/algorithm.hpp
+END
+partial_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/128/trunk/uxn/patl/impl/partial_base.hpp
+END
+ring_buffer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/115/trunk/uxn/patl/impl/ring_buffer.hpp
+END
+lca_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/115/trunk/uxn/patl/impl/lca_base.hpp
+END
+iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/128/trunk/uxn/patl/impl/iterator.hpp
+END
+postorder_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/128/trunk/uxn/patl/impl/postorder_iterator.hpp
+END
+preorder_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/128/trunk/uxn/patl/impl/preorder_iterator.hpp
+END

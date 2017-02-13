@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/129/trunk/uxn/demos/levenshtein
+END
+levenshtein.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/129/trunk/uxn/demos/levenshtein/levenshtein.cpp
+END
+levenshtein_vc8.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/128/trunk/uxn/demos/levenshtein/levenshtein_vc8.vcproj
+END
+levenshtein_vc9.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/128/trunk/uxn/demos/levenshtein/levenshtein_vc9.vcproj
+END
+levenshtein_vc10.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/129/trunk/uxn/demos/levenshtein/levenshtein_vc10.vcxproj
+END
+levenshtein_vc10.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/128/trunk/uxn/demos/levenshtein/levenshtein_vc10.vcxproj.filters
+END

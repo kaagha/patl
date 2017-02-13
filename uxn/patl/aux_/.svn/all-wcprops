@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/128/trunk/uxn/patl/aux_
+END
+buffered_io.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/115/trunk/uxn/patl/aux_/buffered_io.hpp
+END
+perf_timer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/115/trunk/uxn/patl/aux_/perf_timer.hpp
+END
+bitwise_io.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/122/trunk/uxn/patl/aux_/bitwise_io.hpp
+END
+char.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/115/trunk/uxn/patl/aux_/char.hpp
+END
+file_utils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/115/trunk/uxn/patl/aux_/file_utils.hpp
+END
+file_mapping_io.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/115/trunk/uxn/patl/aux_/file_mapping_io.hpp
+END
+static_alloc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/128/trunk/uxn/patl/aux_/static_alloc.hpp
+END
